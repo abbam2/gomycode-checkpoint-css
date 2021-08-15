@@ -1,0 +1,44 @@
+h1{
+display: inline;    
+}
+.navleft{
+    display: inline-block;
+float: right;
+}
+
+.ttt{
+ display: inline;   
+}
+.formulaire{
+display: inline;
+}
+
+iframe{
+  float: right;  
+  margin-right: 200px;
+}
+
+.navbar{ background-color: beige;
+color: cadetblue;
+}
+a{
+ color: cadetblue; 
+}
+
+.title1{
+color: brown;  
+}
+.subtitle2{
+  color: white;
+}
+
+.part1{
+  background-color:blue;
+}
+main{
+
+ background-color: gray; 
+}
+footer{
+background-color: yellow;  
+}
