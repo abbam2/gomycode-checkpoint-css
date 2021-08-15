@@ -1,5 +1,5 @@
 h1{
-display: inline;    
+display: inline;  
 }
 .navleft{
     display: inline-block;
@@ -41,4 +41,10 @@ main{
 }
 footer{
 background-color: yellow;  
+}
+.title2{
+color: brown;  
+}
+.title3{
+color: brown;  
 }
